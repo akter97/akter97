@@ -1,4 +1,14 @@
 ### Hi i Am Akter Hossain 👋
+[![MastHead](https://github.com/NishanAkterRaj/NishanAkterRaj/blob/main/nishanakterraj/mast.png)](https://github.com/nishanakterraj)
+
+# Hello there! 👋🏻 I am Akter Hossain ! <img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50" />
+
+I am Akter Hossain 🙋🏻‍♂️,C Sharp Web Developer Using Asp Dot Net.
+
+ 
+ 
+
+|      Project :octocat:   |     Issues :bug:   | Open PRs :bell:  | Closed PRs :fire:  | 
 
 <!--
 **NishanAkterRaj/NishanAkterRaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

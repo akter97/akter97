@@ -23,19 +23,15 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-[![MastHead](https://github.com/NishanAkterRaj/NishanAkterRaj/blob/main/nishanakterraj/cover.png)](https://github.com/nishanakterraj height="30" width="40")
+<p align="left">  
+<a href="https://fb.com/akter970" target="blank"><img align="center" src="https://github.com/NishanAkterRaj/NishanAkterRaj/blob/main/nishanakterraj/mast.png" alt="Akter Fb" height="30" width="40" /></a>  
+</p>
+   
 
 - 🔭 I’m currently working on **IsDB-BISEW Scholarship Program**
 
 
-- 🌱 I’m currently learning **asp.net using C Sharp**
-
-
-- 👨‍💻 All of my projects are available at [deznolworld.com](deznolworld.com)
-
-
-- 📝 I regularly write articles on [deznolworld.com](deznolworld.com)
+- 🌱 I’m currently learning **asp.net using C Sharp** 
 
 
 - 💬 Ask me about **react, vue and gsap**

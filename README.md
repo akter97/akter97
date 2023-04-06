@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about **react, vue and gsap**
 
 
-- 📫 How to reach me **computereng2021.com**
+- 📫 How to reach Contact me **computereng2021@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>

@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 <p><a href="https://ko-fi.com/NishanAkterRaj"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="NishanAkterRaj" /></a></p><br><br>
 
 
-<p "><img align="center" src="https://github-readme-stats.vercel.app/api?username=NishanAkterRaj&show_icons=true&locale=en" alt="alif-dot" /></p>
+<p "><img align="center" src="https://github-readme-stats.vercel.app/api?username=NishanAkterRaj&show_icons=true&locale=en" alt="akter" /></p>
 
 
-<p class="ml-4><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NishanAkterRaj" alt="alif-dot" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NishanAkterRaj" alt="akter"/></p>

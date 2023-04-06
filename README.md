@@ -11,7 +11,7 @@ I am Akter Hossain 🙋🏻‍♂️,C Sharp Web Developer Using Asp Dot Net.
 |      Project :octocat:   |     Issues :bug:   | Open PRs :bell:  | Closed PRs :fire:  | 
 
 
-**NishanAkterRaj/NishanAkterRaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**NishanAkterRaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-<p align="left">  
-<a href="https://fb.com/akter970" target="blank"><img align="center" src="https://github.com/NishanAkterRaj/NishanAkterRaj/blob/main/nishanakterraj/mast.png" alt="Akter Fb" height="30" width="40" /></a>  
+<p align="center">  
+<a href="https://fb.com/akter970" target="blank"><img align="center" src="https://github.com/NishanAkterRaj/NishanAkterRaj/blob/main/nishanakterraj/mast.png" alt="Akter Fb" height="100" width="300" /></a>  
 </p>
    
 

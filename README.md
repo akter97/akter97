@@ -1,5 +1,5 @@
 
-[![MastHead](https://github.com/NishanAkterRaj/NishanAkterRaj/blob/main/nishanakterraj/mast.png)](https://github.com/nishanakterraj)
+[![MastHead](https://github.com/NishanAkterRaj/NishanAkterRaj/blob/main/nishanakterraj/cover.png)](https://github.com/nishanakterraj)
 
 # Hello there! 👋🏻 I am Akter Hossain ! <img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50" />
 

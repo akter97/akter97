@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 <p align="center">  
-<a href="https://fb.com/akter970" target="blank"><img align="center" src="https://github.com/NishanAkterRaj/NishanAkterRaj/blob/main/nishanakterraj/mast.png" alt="Akter Fb" height="300" width="300" /></a>  
+<a href="https://www.isdb-bisew.org" target="blank"><img align="center" src="https://www.isdb-bisew.org/img/isdb-bisew.png" alt="Akter Fb" height="300" width="300" /></a>  
 </p>
    
 

@@ -60,4 +60,4 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=NishanAkterRaj&show_icons=true&locale=en" alt="alif-dot" /></p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alif-dot&" alt="alif-dot" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NishanAkterRaj" alt="alif-dot" /></p>

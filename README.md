@@ -1,6 +1,6 @@
-### Hi i Am Akter Hossain 👋
+
 [![MastHead](https://github.com/NishanAkterRaj/NishanAkterRaj/blob/main/nishanakterraj/mast.png)](https://github.com/nishanakterraj)
-### <marquee> Hi Dear Sir Assalamu Alaikum How Are You  </marquee> 
+
 # Hello there! 👋🏻 I am Akter Hossain ! <img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50" />
 
 I am Akter Hossain 🙋🏻‍♂️,C Sharp Web Developer Using Asp Dot Net.

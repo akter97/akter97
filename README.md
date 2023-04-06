@@ -24,11 +24,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 <p align="center">  
-<a href="https://fb.com/akter970" target="blank"><img align="center" src="https://github.com/NishanAkterRaj/NishanAkterRaj/blob/main/nishanakterraj/mast.png" alt="Akter Fb" height="100" width="300" /></a>  
+<a href="https://fb.com/akter970" target="blank"><img align="center" src="https://github.com/NishanAkterRaj/NishanAkterRaj/blob/main/nishanakterraj/mast.png" alt="Akter Fb" height="300" width="300" /></a>  
 </p>
    
 
-- 🔭 I’m currently working on **IsDB-BISEW Scholarship Program**
+- 🔭 I’m currently working on  <a href="https://www.isdb-bisew.org">**IsDB-BISEW Scholarship Program**</a>
 
 
 - 🌱 I’m currently learning **asp.net using C Sharp** 

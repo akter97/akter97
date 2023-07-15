@@ -41,6 +41,19 @@ Here are some ideas to get you started:
 </p>
 <img align="center" src="https://github.com/NishanAkterRaj/NishanAkterRaj/blob/main/nishanakterraj/giphy.gif" alt="Akter Fb" height="400" width="100%" />
 <br><br><br><br> 
+
+#### Other Skills :
+- Operating System 
+- MS Word
+- MS Excel
+- MS Powerpoint
+- Ms Access
+- Adobe PhotoShop
+- Adobe Illistator
+- Adobe After Effect
+- Computer Hardware Managment System
+- Surveillance Security System 
+
 <h3 align="center">Support:</h3>
 <p align="center"><a align="center" href="https://ko-fi.com/NishanAkterRaj"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="NishanAkterRaj"/></a></p>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=NishanAkterRaj&show_icons=true&locale=en" alt="akter" /></p>

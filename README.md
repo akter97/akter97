@@ -1,31 +1,28 @@
-
-[![MastHead](https://github.com/NishanAkterRaj/NishanAkterRaj/blob/main/nishanakterraj/cover.png)](https://github.com/nishanakterraj)
+ [![MastHead](https://github.com/NishanAkterRaj/NishanAkterRaj/blob/main/nishanakterraj/cover.png)](https://github.com/nishanakterraj)
 
 # Hello there! 👋🏻 I am Akter Hossain ! <img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50" />
 
-I am Akter Hossain 🙋🏻‍♂️,C Sharp junior Programner Using Asp Dot Net.
-
- 
- 
+I am Akter Hossain 🙋🏻‍♂️,C Sharp Software Engineer Using Asp Dot Net and Angular. 
 
 |      Project :octocat:   |     Issues :bug:   | Open PRs :bell:  | Closed PRs :fire:  | 
 
 
 **NishanAkterRaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-<p align="center">  
+**Here are some ideas to get you started:** </br>
+<p align="center">
+<a href="https://www.isdb-bisew.org" target="blank">
+<img align="center" src="https://github.com/akter97/NishanAkterRaj/assets/73638554/663eb0f8-1bc7-429b-8f18-877088410d71" alt="Akter Fb" height="200" width="300" />
+</a>
+
+-🔭 I’m currently working on  <a href="https://softwarearenaltd.com/">**Software Arena Limited**</a>
+
+  
 <a href="https://www.isdb-bisew.org" target="blank"><img align="center" src="https://www.isdb-bisew.org/img/isdb-bisew.png" alt="Akter Fb" height="200" width="300" /></a>  
-</p>
-   
+</p>  
 
-- 🔭 I’m currently working on  <a href="https://www.isdb-bisew.org">**IsDB-BISEW Scholarship Program**</a>
+- 🌱 I’m learn **asp.net using C Sharp , Angular** -- Organization  <a href="https://www.isdb-bisew.org"> **IsDB-BISEW Scholarship Program**</a> 
 
-
-- 🌱 I’m currently learning **asp.net using C Sharp** 
-
-
-- 💬 Ask me about **react, vue and gsap**
 
 
 - 📫 How to reach Contact me **computereng2021@gmail.com**

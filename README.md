@@ -28,7 +28,7 @@ I am Akter Hossain 🙋🏻‍♂️,C Sharp Software Engineer Using Asp Dot Net
 <p align="center">  
  <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishanakterraj&layout=compact&hide=html" alt="Akter Hossain" /></p>
 </p>
-<img align="center" src="https://github.com/NishanAkterRaj/NishanAkterRaj/blob/main/nishanakterraj/giphy.gif" alt="Akter Fb" height="400" width="100%" />
+<img align="center" src="https://github.com/akter97/NishanAkterRaj/blob/main/nishanakterraj/giphy.gif" alt="Akter Fb" height="400" width="100%" />
 <br><br><br><br> 
 
 #### Other Skills :
@@ -44,6 +44,6 @@ I am Akter Hossain 🙋🏻‍♂️,C Sharp Software Engineer Using Asp Dot Net
 - Surveillance Security System 
 
 <h3 align="center">Support:</h3>
-<p align="center"><a align="center" href="https://ko-fi.com/NishanAkterRaj"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="NishanAkterRaj"/></a></p>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=NishanAkterRaj&show_icons=true&locale=en" alt="akter" /></p>
-<p align="right"><img src="https://github-readme-streak-stats.herokuapp.com/?user=NishanAkterRaj" alt="akter"/></p><br><br>
+<p align="center"><a align="center" href="https://ko-fi.com/akter97"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="NishanAkterRaj"/></a></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=akter97&show_icons=true&locale=en" alt="akter" /></p>
+<p align="right"><img src="https://github-readme-streak-stats.herokuapp.com/?user=akter97" alt="akter"/></p><br><br>

@@ -16,15 +16,7 @@ I am Akter Hossain 🙋🏻‍♂️,C Sharp Software Engineer Using Asp Dot Net
 </a>
 
 -🔭 I’m currently working on  <a href="https://softwarearenaltd.com/">**Software Arena Limited**</a>
-
-  
-<a href="https://www.isdb-bisew.org" target="blank"><img align="center" src="https://www.isdb-bisew.org/img/isdb-bisew.png" alt="Akter Fb" height="200" width="300" /></a>  
-</p>  
-
 - 🌱 I’m learn **asp.net using C Sharp , Angular** -- Organization  <a href="https://www.isdb-bisew.org"> **IsDB-BISEW Scholarship Program**</a> 
-
-
-
 - 📫 How to reach Contact me **computereng2021@gmail.com**
 <br><br><br><br>
 <h3 align="left">Connect with me:</h3>

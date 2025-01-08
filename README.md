@@ -1,6 +1,6 @@
- [![MastHead](https://github.com/NishanAkterRaj/NishanAkterRaj/blob/main/nishanakterraj/cover.png)](https://github.com/nishanakterraj)
- 
-# Hello there! 👋🏻 I am Akter Hossain ! <img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50" />
+
+![linkdincoverphoto 2nd](https://github.com/user-attachments/assets/5b5557f7-85ed-4bd2-8325-3c91d571111f)
+there! 👋🏻 I am Akter Hossain ! <img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50" />
 
 I am Akter Hossain 🙋🏻‍♂️,C Sharp Software Engineer Using Asp Dot Net and Angular. 
 

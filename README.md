@@ -20,8 +20,6 @@ I am Akter Hossain 🙋🏻‍♂️,C Sharp Software Engineer Using Asp Dot Net
 <p align="center">  
  <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akter97&layout=compact&hide=html" alt="Akter Hossain" /></p>
 </p>
-<img align="center" src="https://github.com/akter97/NishanAkterRaj/blob/main/nishanakterraj/giphy.gif" alt="Akter Fb" height="400" width="100%" />
-<br><br>
 
 #### Other Skills :
 - Operating System 

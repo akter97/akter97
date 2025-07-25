@@ -18,13 +18,6 @@
   My core strengths include clean code principles, repository pattern implementation, and seamless integration between front-end and back-end technologies.  
   I thrive in collaborative environments and love solving complex problems that drive business value.
 </p> 
-
-
-## 📊 Quick Stats
-
-| Project :octocat:| Issues :bug: | Open PRs :bell:   | Closed PRs :fire |
-|------------------|--------------|-------------------|------------------|
-|7                 | Infinity     | ERP, HR, Payroll  | 6 +              |
  
 
 # 💼 Professional Experience
@@ -39,6 +32,19 @@
 - Implemented database schemas and optimized SQL queries, stored procedures, and triggers for HR systems.
 
 ---
+## 📊 Quick Stats
+
+| Project :octocat:| Issues :bug: | Open PRs :bell:   | Closed PRs :fire |
+|------------------|--------------|-------------------|------------------|
+|7                 | Infinity     | ERP, HR, Payroll  | 6 +              |
+
+ ## 🧠 LeetCode Stats
+
+<!--START_SECTION:leetcode-->
+
+<!--END_SECTION:leetcode-->
+
+
 
 ## 📫 Get In Touch
 Email: <code>computereng2021@gmail.com</code>

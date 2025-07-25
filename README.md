@@ -38,12 +38,8 @@
 |------------------|--------------|-------------------|------------------|
 |7                 | Infinity     | ERP, HR, Payroll  | 6 +              |
 
- ## 🧠 LeetCode Stats
-
-<!--START_SECTION:leetcode-->
-
-<!--END_SECTION:leetcode-->
-
+ ## 🧠 LeetCode Stats 
+[![LeetCode Stats](https://leetcard.jacoblin.cool/eakterhossain?theme=dark)](https://leetcode.com/u/eakterhossain/)
 
 
 ## 📫 Get In Touch

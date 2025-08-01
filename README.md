@@ -17,9 +17,20 @@
 <p align="center" style="max-width: 700px; margin: auto; font-size: 1.1rem; color: #444; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
   My core strengths include clean code principles, repository pattern implementation, and seamless integration between front-end and back-end technologies.  
   I thrive in collaborative environments and love solving complex problems that drive business value.
-</p> 
+</p>  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=akter97&label=Profile%20views&color=0e75b6&style=flat" alt="Akter Hossain" /> </p> 
+
  
 
+- 🔭 I’m currently working **at Software Arena Ltd**
+
+- 🌱 I’m currently learning **Asp.Net Core & Angular**
+
+- 💬 Ask me about **SQL .Net Core And Angular**
+
+- 📫 How to reach me **computereng2021@gmail.com**
+
+ 
 # 💼 Professional Experience
 ### Software Engineer — Software Arena Ltd.
 *Dhaka, Bangladesh* | *Sep 2023 – Present*

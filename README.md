@@ -9,7 +9,7 @@
 
 <p align="center" style="font-size: 1.25rem; max-width: 700px; margin: 0.5rem auto 2rem; color: #222; line-height: 1.6; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
   I am a dedicated <strong>C# Software Engineer</strong> with expertise in <strong>ASP.NET Core</strong> and <strong>Angular</strong>, passionate about building scalable and maintainable web applications.
-  Currently, I am contributing my skills at <a href="https://softwarearenaltd.com/" target="_blank" style="color:#0a66c2; text-decoration:none; font-weight: 600;">Software Arena Limited</a>,  
+  Currently, I am contributing my skills at <a href="https://softwarearenaltd.com/" target="_blank" style="color:#0a66c2; text-decoration:none; font-weight: 600;">WebLink Communication Limited</a>,  
   where I develop enterprise-level solutions. I am also proud to be a part of the <a href="https://www.isdb-bisew.org" target="_blank" style="color:#0a66c2; text-decoration:none; font-weight: 600;">IsDB-BISEW Scholarship Program</a>,  
   continuously advancing my knowledge in modern software architecture and cloud technologies.
 </p>
@@ -22,9 +22,9 @@
 
  
 
-- 🔭 I’m currently working **at Software Arena Ltd**
+- 🔭 I’m currently working **at WebLink Communication Limited**
 
-- 🌱 I’m currently learning **Asp.Net Core & Angular**
+- 🌱 I’m currently learning **Asp.Net Core & Angular & Flutter**
 
 - 💬 Ask me about **SQL .Net Core And Angular**
 
@@ -32,8 +32,12 @@
 
  
 # 💼 Professional Experience
+### WebLink Communication Limited
+*Dhaka, Bangladesh* | *Sep 2025 – Continue*
+- Developed  ERP Some modules using ASP.NET MVC/Core.
+  
 ### Software Engineer — Software Arena Ltd.
-*Dhaka, Bangladesh* | *Sep 2023 – Present*
+*Dhaka, Bangladesh* | *Sep 2023 – Aug 2025*
 - Developed and maintained ERP modules using ASP.NET MVC/Core and Angular.
 - Created and integrated APIs for front-end and back-end communication.
 - Wrote efficient SQL queries, stored procedures, and views for SQL Server database.

@@ -34,7 +34,12 @@
 # 💼 Professional Experience
 ### WebLink Communication Limited
 *Dhaka, Bangladesh* | *Sep 2025 – Continue*
-- Developed  ERP Some modules using ASP.NET MVC/Core.
+- Developed  ERP Some modules using ASP.NET MVC/Core Ms Sql and My Sql.
+- Developed SjlMowerDeck Remote Controlling Apps Using Flutter 
+- Development Alex Mobile Mechanic using (Flutter, NoteJs, MySql Database) 
+- Customize Eternal Care Website  using ASP.NET MVC/Core and ms sql Database.
+- Customize Pos System using Laravel WIth MySql
+- Enrich Coder Website using ASP.NET MVC/Core and ms sql Database. 
   
 ### Software Engineer — Software Arena Ltd.
 *Dhaka, Bangladesh* | *Sep 2023 – Aug 2025*
